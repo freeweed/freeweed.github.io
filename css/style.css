@@ -1,0 +1,8 @@
+@font-face {
+    font-family: rsu;
+    src: url('font/RSU_light.ttf');
+}
+
+body{
+  font-family: rsu !important;
+}
